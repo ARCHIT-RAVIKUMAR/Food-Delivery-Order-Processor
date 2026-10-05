@@ -1,0 +1,93 @@
+[
+  {
+    "order_id": 1,
+    "customer": "Aarav",
+    "items": {
+      "Pizza": 1,
+      "Coffee": 2
+    }
+  },
+  {
+    "order_id": 2,
+    "customer": "Meera",
+    "items": {
+      "Burger": 2,
+      "Fries": 1
+    }
+  },
+  {
+    "order_id": 3,
+    "customer": "Karthik",
+    "items": {
+      "Biryani": 3,
+      "Coffee": 3
+    }
+  },
+  {
+    "order_id": 4,
+    "customer": "Divya",
+    "items": {}
+  },
+  {
+    "order_id": 5,
+    "customer": "Rahul",
+    "items": {
+      "Sushi": 1
+    }
+  },
+  {
+    "order_id": 6,
+    "customer": "Priya",
+    "items": {
+      "Fries": 2
+    }
+  },
+  {
+    "order_id": 7,
+    "customer": "Arjun",
+    "items": {
+      "Pizza": 2,
+      "Biryani": 2,
+      "Coffee": 2
+    }
+  },
+  {
+    "order_id": 8,
+    "customer": "Sneha",
+    "items": {
+      "Burger": 0
+    }
+  },
+  {
+    "order_id": 9,
+    "customer": "Vikram",
+    "items": {
+      "Biryani": 1,
+      "Fries": 1
+    }
+  },
+  {
+    "order_id": 10,
+    "customer": "Lakshmi",
+    "items": {
+      "Pizza": 1,
+      "Burger": 1,
+      "Coffee": 1
+    }
+  },
+  {
+    "order_id": 11,
+    "customer": "Nikhil",
+    "items": {
+      "Coffee": 1
+    }
+  },
+  {
+    "order_id": 12,
+    "customer": "Anita",
+    "items": {
+      "Biryani": 4,
+      "Burger": 2
+    }
+  }
+]

@@ -1,0 +1,23 @@
+DAILY SALES SUMMARY
+-------------------
+Total orders received: 12
+Valid orders: 9
+Invalid orders: 3
+Total revenue: Rs 5098.0
+Highest value order: #7 (Arjun) - Rs 1066.0
+
+Order bills
+Order 1 | Aarav | total Rs 450 | discount Rs 0 | final Rs 490
+Order 2 | Meera | total Rs 330 | discount Rs 0 | final Rs 370
+Order 3 | Karthik | total Rs 960 | discount Rs 96.0 | final Rs 904.0
+Order 6 | Priya | total Rs 180 | discount Rs 0 | final Rs 220
+Order 7 | Arjun | total Rs 1140 | discount Rs 114.0 | final Rs 1066.0
+Order 9 | Vikram | total Rs 310 | discount Rs 0 | final Rs 350
+Order 10 | Lakshmi | total Rs 470 | discount Rs 0 | final Rs 510
+Order 11 | Nikhil | total Rs 100 | discount Rs 0 | final Rs 140
+Order 12 | Anita | total Rs 1120 | discount Rs 112.0 | final Rs 1048.0
+
+Invalid orders
+Order 4: order is empty
+Order 5: 'Sushi' is not on the menu
+Order 8: invalid quantity for Burger
